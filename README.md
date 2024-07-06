@@ -1,4 +1,4 @@
-                        ToDoList App
+              ToDoList App
 
 Welcome to the toDoList App! It's a simple react application helps to manage daily tasks efficiently
 
